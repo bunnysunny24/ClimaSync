@@ -37,12 +37,11 @@ This project combines **Python (FastAPI)** for the backend, **React** for the fr
 
 ---
 
-![Screenshot 2025-03-19 232113](https://github.com/user-attachments/assets/40327372-50f0-4d29-9b74-d7965e70a584)
-![Screenshot 2025-03-19 232120](https://github.com/user-attachments/assets/6ff784fc-53bc-4084-bfc6-d596aafb2d08)
-![Screenshot 2025-03-19 222547](https://github.com/user-attachments/assets/0806c2d7-579c-45ee-bfae-859338ce128d)
-![Screenshot 2025-03-19 232032](https://github.com/user-attachments/assets/c6e1d5e1-e514-4f9e-b736-2e5ddb7b2fd4)
-![Screenshot 2025-03-19 232044](https://github.com/user-attachments/assets/5387101f-5df3-4281-813d-0da44ced12b8)
-![Screenshot 2025-03-19 232104](https://github.com/user-attachments/assets/3d5bc24e-8c29-4061-b726-078ee5060fd7)
+![Screenshot 2025-03-19 232113](https://github.com/user-attachments/assets/a0c11628-6f06-4612-9b52-c67688f6f306)
+![Screenshot 2025-03-19 232120](https://github.com/user-attachments/assets/19f948eb-69a1-427e-b6f8-dc795c5f19f6)
+![Screenshot 2025-03-19 232032](https://github.com/user-attachments/assets/fc5d1236-2032-4526-8fbc-c8fb46bce5e6)
+![Screenshot 2025-03-19 232044](https://github.com/user-attachments/assets/e1625fe4-fafb-40fe-9f02-61112278aadd)
+![Screenshot 2025-03-19 232104](https://github.com/user-attachments/assets/a14297d4-23d9-438a-b756-ebe621bed554)
 
 
 ## Installation 🛠️
